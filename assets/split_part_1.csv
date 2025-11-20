@@ -1,0 +1,383 @@
+County,Age,Gender,BMI,Allergies,Air_Pollution_Level,Physical_Activity_Level,Comorbidities,Number_of_ER_Visits,Peak_Expiratory_Flow,FeNO_Level,Has_Asthma,Asthma_Control_Level
+Kisii,6,Male,22.5,Pollen,Moderate,Moderate,,0,429,20.5,0,
+Kiambu,12,Other,21.9,,Moderate,Moderate,,0,282.7,8.1,0,
+Bungoma,3,Male,27,Dust,High,Sedentary,,3,449.2,22.4,1,Not Controlled
+Kisii,15,Female,24.4,Pollen,Moderate,Sedentary,,1,526.7,20.4,0,
+Turkana,8,Female,29.3,Pollen,Low,Sedentary,Hypertension,1,480.9,10.6,0,
+Wajir,14,Male,21.9,Pets,High,Sedentary,Both,2,400.4,9.8,1,Not Controlled
+Kwale,2,Female,34,Multiple,High,Moderate,,0,245.1,24,1,Well Controlled
+Mandera,14,Female,29.5,,Low,Sedentary,,0,484.8,24.9,0,
+Kiambu,2,Female,27.2,,Low,Sedentary,,0,410.5,24,0,
+Marsabit,17,Male,19.8,Dust,Low,Active,Hypertension,0,340.2,8.5,0,
+Nandi,5,Female,20.8,Dust,High,Sedentary,,2,533.8,19.8,1,Poorly Controlled
+Mandera,11,Female,17.8,,Moderate,Moderate,,1,372.2,43.7,0,
+Nandi,10,Female,25.4,Pollen,Moderate,Sedentary,Diabetes,0,516.9,32.3,0,
+Kwale,14,Female,29,,Moderate,Sedentary,Diabetes,1,555,25.5,0,
+Nyeri,10,Female,26.9,Dust,Moderate,Moderate,Hypertension,0,432.3,13.8,0,
+Garissa,1,Female,16.8,,Moderate,Sedentary,,3,329.1,31,0,
+Isiolo,5,Male,24.4,Pollen,Moderate,Moderate,,2,426.4,31.4,1,Poorly Controlled
+Kisumu,8,Male,24.1,Dust,Low,Active,,2,431.3,25.5,0,
+Vihiga,1,Female,28.9,Pollen,Moderate,Moderate,,0,252.8,26.5,0,
+Garissa,6,Male,18.1,Pollen,Moderate,Sedentary,Hypertension,0,323.4,25.1,1,Not Controlled
+Narok,2,Female,23.4,Multiple,Moderate,Moderate,Both,1,441,9.9,0,
+Turkana,1,Female,23.1,,Moderate,Sedentary,,1,440.6,16.2,0,
+Mandera,12,Female,22.8,,Moderate,Moderate,Diabetes,1,480.6,29.9,0,
+Mandera,8,Male,22.5,,Moderate,Moderate,Diabetes,0,445.4,25.3,0,
+Busia,1,Female,25.1,Dust,Moderate,Moderate,,1,340.6,23.9,0,
+Samburu,8,Male,25.4,Dust,Moderate,Active,Diabetes,0,352.8,28.1,0,
+Garissa,5,Female,25.4,Pollen,Moderate,Sedentary,,0,419.7,31.2,0,
+Lamu,17,Male,30.8,Pets,Low,Sedentary,Hypertension,0,367.3,36.1,0,
+Nairobi City,8,Female,33.2,Pollen,High,Sedentary,,0,424.4,18.2,1,Not Controlled
+Kisii,1,Female,24.9,Dust,Moderate,Sedentary,Hypertension,3,394.9,8.8,1,Poorly Controlled
+Lamu,14,Female,19.4,Pets,Low,Sedentary,,2,227.4,19,0,
+Nyandarua,13,Male,21.8,,Moderate,Sedentary,Diabetes,1,462,25.6,0,
+Kakamega,4,Female,21.2,,Moderate,Moderate,Diabetes,3,496.6,38.1,0,
+Kwale,13,Female,18.1,Multiple,Moderate,Sedentary,Both,1,404.1,23,0,
+Mombasa,1,Male,24,Pollen,Moderate,Moderate,Diabetes,1,537.9,7.7,0,
+Meru,15,Female,31.4,Dust,High,Moderate,Hypertension,2,281.4,36,1,Poorly Controlled
+Kiambu,15,Female,16.5,Multiple,Moderate,Active,,2,447.4,25.6,0,
+Taita-Taveta,11,Female,29.1,Dust,High,Moderate,,0,262,22.3,0,
+Nandi,9,Male,20,Pets,Low,Moderate,Diabetes,0,416.3,24.6,0,
+Laikipia,3,Male,26.2,,High,Sedentary,,0,279.3,16.1,1,Poorly Controlled
+Tana River,12,Male,31.7,,Low,Sedentary,Both,0,371.8,17.2,0,
+Nyeri,5,Female,28.6,Dust,Moderate,Moderate,,0,375,40.1,0,
+Laikipia,15,Male,25.3,Pollen,Low,Moderate,,1,285.1,19.8,0,
+Mombasa,15,Other,23,,Low,Moderate,Hypertension,0,292.3,15.5,0,
+Embu,15,Male,31.8,,Low,Sedentary,,1,385.4,31,0,
+Kisii,13,Female,24.8,,Moderate,Active,,0,433,32.9,0,
+Migori,8,Female,31.1,Pets,Low,Sedentary,,0,154.7,5.6,0,
+Kisii,16,Male,27.6,Pets,Moderate,Active,Diabetes,1,436.2,28.4,0,
+Garissa,2,Female,28.5,,Low,Sedentary,,1,431.6,21.4,1,Poorly Controlled
+Trans Nzoia,4,Female,28.1,Pets,High,Active,Diabetes,2,288.5,11.5,0,
+Makueni,7,Male,21.5,Pets,Low,Moderate,,1,251.1,11.5,0,
+Nairobi City,13,Other,22.9,Pollen,Moderate,Sedentary,,0,312,27.8,1,Not Controlled
+Kisumu,7,Male,30.9,Dust,High,Moderate,Diabetes,0,562.9,28.6,1,Not Controlled
+Laikipia,1,Male,19.3,,Moderate,Moderate,Diabetes,2,232.3,18.5,0,
+Tharaka-Nithi,13,Male,25.3,Multiple,Moderate,Sedentary,Both,0,204.8,25.4,0,
+Meru,9,Female,28.5,Multiple,High,Active,Diabetes,1,587,26.5,0,
+Kilifi,9,Female,19.4,Multiple,Low,Sedentary,,0,351.3,18.9,1,Poorly Controlled
+Narok,15,Female,20.4,Pets,Moderate,Active,,0,440,5.6,0,
+Kitui,10,Female,23.3,Dust,Low,Sedentary,Diabetes,0,401.8,23,0,
+Kwale,15,Male,29.6,Multiple,Moderate,Moderate,Both,0,421.8,24.5,0,
+Nyamira,11,Male,26.6,,Moderate,Sedentary,,1,390.4,41.1,0,
+Elgeyo-Marakwet,10,Female,38.1,Pollen,Moderate,Active,Diabetes,1,413.3,11,0,
+Kitui,2,Female,19.8,,Moderate,Moderate,,1,353.8,18.2,0,
+Bungoma,7,Female,26.9,Dust,Moderate,Sedentary,,0,448.5,5,0,
+Baringo,3,Male,22.8,,Low,Moderate,Diabetes,1,519.9,26.7,0,
+Makueni,8,Other,26.8,Dust,Low,Sedentary,Hypertension,0,345.8,29.6,1,Poorly Controlled
+Kitui,13,Female,22.6,Dust,Low,Moderate,Hypertension,0,329.2,24.5,0,
+Nyamira,2,Male,30.1,,Moderate,Moderate,,0,208.8,33.6,0,
+Kericho,5,Female,31.1,Pets,Low,Sedentary,,2,409,21.6,1,Poorly Controlled
+Busia,8,Female,19.5,Multiple,Moderate,Active,Both,1,468.7,15.8,0,
+Kisumu,3,Female,27.5,Pets,Moderate,Moderate,Both,0,422.4,35.2,0,
+Nandi,2,Male,32.8,Dust,High,Moderate,,0,483.5,20.8,1,Poorly Controlled
+Siaya,2,Male,32.1,Dust,Low,Sedentary,,2,150,25.3,1,Not Controlled
+Elgeyo-Marakwet,8,Male,25.9,Dust,High,Sedentary,,1,356,25.6,1,Not Controlled
+Migori,16,Female,19.8,Dust,Moderate,Moderate,Both,0,497.6,33.1,0,
+Taita-Taveta,12,Female,25.9,Dust,Moderate,Moderate,,1,349.9,25.6,0,
+Kwale,17,Male,29.1,Pets,Moderate,Moderate,,0,252,27.7,0,
+Kisumu,16,Male,29.9,,High,Sedentary,Hypertension,0,276.1,34.6,1,Well Controlled
+Kiambu,12,Female,27.5,Dust,Moderate,Moderate,Hypertension,2,432.3,21.7,0,
+Trans Nzoia,8,Male,18.4,,Low,Active,,0,366,19.4,0,
+Narok,3,Other,25,Pets,Moderate,Moderate,Hypertension,2,600,42,0,
+Wajir,16,Male,25.1,,Low,Active,,3,342.4,27.6,0,
+Turkana,5,Male,29.1,Pollen,Moderate,Sedentary,Hypertension,0,445.8,29.7,1,Poorly Controlled
+Murang’a,16,Female,26,,Low,Sedentary,,0,478.3,19.8,0,
+Marsabit,14,Male,24.3,,Moderate,Active,,1,294,26.7,0,
+Taita-Taveta,2,Male,20.3,,High,Moderate,,1,530.7,42.2,0,
+Tana River,6,Male,30.4,,Moderate,Sedentary,Diabetes,2,182.9,28.9,0,
+Machakos,15,Male,15,Pollen,High,Moderate,Hypertension,0,420.6,40.1,0,
+Elgeyo-Marakwet,12,Male,25.6,Pollen,Low,Sedentary,Hypertension,0,313.6,22.5,1,Poorly Controlled
+Kericho,6,Male,23.2,Pets,Low,Moderate,,0,317,16,0,
+West Pokot,7,Male,25,Dust,Moderate,Active,Both,1,360.2,23,0,
+Trans Nzoia,14,Male,29.1,Pets,High,Sedentary,,0,454.4,13.9,1,Not Controlled
+Samburu,15,Female,30.7,Pets,Moderate,Moderate,Both,2,461.9,17.6,0,
+Murang’a,2,Male,22.8,Dust,Moderate,Sedentary,Hypertension,1,329.4,53.9,1,Poorly Controlled
+Siaya,10,Female,29.8,,High,Sedentary,,1,365.4,35.4,0,
+Kakamega,14,Male,23.7,Pollen,Moderate,Moderate,,3,465.3,29.7,0,
+Kwale,3,Female,32.2,,Moderate,Moderate,Hypertension,3,298.2,29.6,0,
+Turkana,6,Male,27.5,Multiple,High,Active,Hypertension,0,361.9,21.8,1,Poorly Controlled
+Uasin Gishu,13,Female,23.3,Dust,High,Sedentary,,2,392.3,20.9,1,Poorly Controlled
+Turkana,8,Other,28,Dust,Moderate,Moderate,Hypertension,0,413.2,32.3,0,
+Nyandarua,12,Female,18.5,Multiple,Moderate,Active,Both,1,432.1,12.3,0,
+Elgeyo-Marakwet,13,Male,32.6,Pets,Moderate,Moderate,Hypertension,2,451.7,29.6,1,Poorly Controlled
+Garissa,6,Male,23.6,Pollen,High,Moderate,Diabetes,0,466.2,44.1,0,
+Kakamega,2,Male,29,Dust,Moderate,Sedentary,,0,393.6,27.1,0,
+Siaya,5,Male,22.7,Pets,Low,Moderate,Diabetes,2,302.6,5,0,
+Migori,10,Male,24.5,Dust,Moderate,Sedentary,,1,408.6,5,0,
+Tharaka-Nithi,2,Male,23.7,Pets,Moderate,Sedentary,Diabetes,1,397,15,1,Poorly Controlled
+Tharaka-Nithi,11,Male,21.3,Pollen,Moderate,Sedentary,Diabetes,1,359.8,24.2,0,
+Kisii,9,Female,27.3,Dust,Moderate,Moderate,Diabetes,3,485.3,22.2,0,
+Kilifi,7,Male,22.1,,Moderate,Sedentary,,2,360,5,0,
+Machakos,16,Female,17.1,,Low,Sedentary,,0,600,19.5,0,
+Kajiado,4,Female,21.4,,Low,Active,,1,600,31.5,0,
+Garissa,4,Male,29.6,Dust,High,Sedentary,,2,395.5,23.5,1,Not Controlled
+Nyandarua,17,Male,18.7,Dust,Low,Active,Hypertension,0,385.5,37.5,0,
+Trans Nzoia,7,Male,28.1,Multiple,High,Sedentary,,0,499.1,5,1,Not Controlled
+Taita-Taveta,14,Male,29.9,,High,Active,,3,437.5,22.9,0,
+Taita-Taveta,5,Female,26.5,Multiple,Moderate,Moderate,,2,346.1,22.1,0,
+Nyamira,2,Female,24.1,Dust,High,Moderate,Diabetes,1,418.1,9.2,1,Poorly Controlled
+Laikipia,10,Female,33.6,Pollen,Low,Active,,4,432.7,8.9,0,
+Kiambu,5,Male,25.4,,Moderate,Moderate,Both,0,484.7,28.4,0,
+Uasin Gishu,13,Female,21.4,Dust,Low,Sedentary,,1,491.8,14.3,0,
+Kitui,11,Female,33.2,Pollen,Low,Moderate,,1,420.7,25.2,1,Not Controlled
+Migori,13,Female,36.9,,Moderate,Sedentary,,1,277.8,25.5,0,
+Busia,17,Male,17.2,Pollen,High,Moderate,Hypertension,0,312,41,0,
+Mombasa,9,Other,28,Dust,High,Sedentary,,1,577,35,1,Not Controlled
+Nairobi City,1,Female,29.4,,Moderate,Active,,0,465.2,31.4,0,
+Taita-Taveta,2,Female,29.2,Pollen,Moderate,Sedentary,Diabetes,0,325.1,26.6,1,Not Controlled
+Marsabit,10,Female,33,,High,Sedentary,,0,396.2,20.1,0,
+Kiambu,8,Male,26.5,Pollen,High,Sedentary,,0,361.4,31.1,1,Not Controlled
+Nyeri,17,Male,25.7,Pollen,High,Sedentary,Diabetes,1,422.8,33.6,1,Poorly Controlled
+Taita-Taveta,8,Male,17.3,,Low,Sedentary,,0,515.4,20.6,0,
+Mandera,1,Male,25.5,Pollen,High,Moderate,Hypertension,1,351.4,28.9,0,
+Murang’a,17,Male,21.6,,Moderate,Moderate,,1,248.8,17.2,0,
+Samburu,5,Female,15.5,Dust,High,Moderate,Diabetes,0,266.7,42.8,1,Poorly Controlled
+Marsabit,11,Male,22.9,Multiple,Moderate,Sedentary,,2,319.6,15.9,0,
+Kisii,15,Female,18.1,Dust,Low,Active,Hypertension,2,460.3,19.1,0,
+Kilifi,7,Male,27.3,Dust,High,Moderate,Diabetes,0,356.9,16.2,1,Not Controlled
+Uasin Gishu,5,Female,23.4,Multiple,Moderate,Moderate,Both,3,477.1,14.5,0,
+Samburu,5,Male,23.6,Pollen,High,Sedentary,,2,392.6,27.6,1,Not Controlled
+Siaya,8,Other,18,Dust,Moderate,Sedentary,Both,1,416.6,26.8,1,Not Controlled
+Garissa,10,Male,28,Pollen,Moderate,Moderate,,1,526.5,36.3,0,
+Wajir,8,Male,20.4,Pollen,Low,Moderate,Hypertension,0,402.6,28.9,0,
+Uasin Gishu,10,Female,17.2,Dust,Moderate,Moderate,,2,281.6,22.9,0,
+Bungoma,12,Female,16.4,,Low,Moderate,,2,442.8,26,0,
+Embu,2,Female,23.9,Dust,Moderate,Sedentary,,5,309.4,43.4,1,Poorly Controlled
+Isiolo,13,Female,24.2,Pollen,High,Sedentary,Both,0,477.2,12.4,1,Not Controlled
+Murang’a,16,Female,22.2,Pets,Moderate,Active,Diabetes,1,481.5,28,0,
+Marsabit,11,Male,28.6,Pets,Moderate,Moderate,Hypertension,0,399.1,22.7,0,
+Kwale,10,Male,16.2,Dust,Low,Moderate,,3,284,20.3,0,
+Nyamira,15,Female,21.7,Dust,Low,Moderate,Diabetes,0,213.6,17.3,0,
+Kiambu,17,Male,32.6,Pets,Low,Sedentary,,3,578.9,29.5,0,
+Baringo,12,Female,15,,Low,Sedentary,Diabetes,3,289.9,25.4,0,
+Tana River,13,Male,24.9,Pollen,Moderate,Moderate,,2,493.7,22.8,0,
+Nyandarua,8,Female,21.6,Pollen,Moderate,Sedentary,,1,376.2,31,1,Poorly Controlled
+Embu,7,Male,31.5,Multiple,High,Active,,1,482.8,27.9,1,Not Controlled
+Nyamira,13,Female,17.1,Pets,High,Moderate,,1,399.7,39.3,1,Not Controlled
+Siaya,2,Male,38.3,Dust,Moderate,Sedentary,Both,3,600,46.4,0,
+Machakos,3,Male,15.3,Pets,Low,Moderate,Hypertension,0,196.4,14.2,0,
+Nandi,8,Female,25.5,,Low,Sedentary,Diabetes,2,335.3,55.7,0,
+Kakamega,16,Male,28,Pollen,Moderate,Sedentary,,1,576.4,30.6,1,Not Controlled
+West Pokot,1,Male,29.4,Dust,Moderate,Moderate,Hypertension,1,253.3,25.8,0,
+Bungoma,5,Female,34,Pollen,Low,Active,Diabetes,1,252.4,40,0,
+Laikipia,3,Female,22.6,Pets,Low,Sedentary,Diabetes,0,408.1,34.6,0,
+Mandera,4,Male,21.7,Dust,Moderate,Sedentary,Hypertension,2,481.5,39.5,0,
+Tana River,10,Female,32.2,Pollen,High,Moderate,Hypertension,1,303.3,20.7,1,Poorly Controlled
+Nakuru,13,Male,23.4,Pollen,Moderate,Sedentary,Both,4,456.4,38.8,0,
+Nyeri,9,Male,26.2,Pets,Low,Sedentary,,3,421.8,23.6,1,Poorly Controlled
+Siaya,12,Male,35,Dust,Moderate,Moderate,Both,0,447,27.5,0,
+Meru,14,Male,24,Pollen,High,Sedentary,Both,0,362.5,23.4,1,Well Controlled
+Meru,16,Male,34.6,,Moderate,Active,,0,333.8,6.5,0,
+Vihiga,4,Male,27.5,Pollen,Low,Sedentary,,0,422,41.4,0,
+Narok,4,Female,20.6,Multiple,Moderate,Active,,0,523.4,15.6,0,
+Nyandarua,10,Female,26.5,Pets,Moderate,Sedentary,,1,372.6,32.7,1,Not Controlled
+Baringo,4,Male,18.2,,Low,Sedentary,Diabetes,2,272,18.7,0,
+Kisumu,17,Male,35.9,Dust,Low,Moderate,,0,329.6,23.7,0,
+Nyeri,4,Female,28.1,Dust,Moderate,Sedentary,,3,509.9,27.1,1,Not Controlled
+Mandera,14,Male,26.7,Pollen,Moderate,Moderate,Diabetes,0,301.5,27.7,0,
+Siaya,3,Male,26.2,,Moderate,Moderate,Diabetes,1,287.9,46.9,0,
+Lamu,4,Female,30.7,Pollen,Moderate,Active,Hypertension,1,495.5,5,1,Poorly Controlled
+Murang’a,17,Female,27.3,Dust,Moderate,Moderate,,2,176.7,14.5,0,
+Kirinyaga,4,Female,24.4,Pollen,Moderate,Moderate,,0,512.4,19.9,1,Poorly Controlled
+Kisumu,15,Female,27.2,,Moderate,Moderate,Hypertension,2,351.6,18,0,
+Nakuru,9,Male,28.9,Pets,Moderate,Active,Hypertension,1,349.6,11.5,0,
+Narok,16,Male,27.5,,High,Sedentary,Hypertension,1,600,12.5,1,Poorly Controlled
+Elgeyo-Marakwet,10,Male,19.7,Dust,Moderate,Sedentary,,1,400.6,42,0,
+Wajir,3,Other,27.7,,Low,Moderate,,1,377.2,7.7,0,
+Garissa,5,Male,22.1,Pollen,Moderate,Sedentary,,3,382.5,29,1,Poorly Controlled
+Tharaka-Nithi,4,Male,23.9,Pollen,Low,Moderate,Hypertension,0,418.6,43.5,0,
+Kisumu,1,Male,24.4,Dust,High,Moderate,,0,410.2,37.4,0,
+Taita-Taveta,7,Male,23.1,Pets,Moderate,Moderate,,2,447.3,33.6,0,
+Kirinyaga,14,Male,21.3,Dust,Moderate,Moderate,Diabetes,1,418.4,45.3,0,
+Marsabit,10,Female,23.8,Dust,Moderate,Moderate,,0,494.6,10.1,0,
+Narok,16,Male,23.7,Pollen,Moderate,Sedentary,,0,368.3,5.4,1,Poorly Controlled
+Kericho,7,Female,21,Dust,High,Moderate,Hypertension,0,382.2,6.2,0,
+Narok,15,Female,20,Pollen,Moderate,Active,Hypertension,2,527.4,5,0,
+Taita-Taveta,15,Male,26.9,Dust,Moderate,Moderate,Hypertension,0,395.7,5,0,
+Nandi,14,Female,29,,High,Active,Diabetes,1,283.2,12,0,
+Kilifi,3,Male,21.1,Pets,Low,Moderate,Hypertension,0,356.7,40.4,0,
+Migori,12,Male,25.3,Pollen,High,Sedentary,,3,239.1,26,1,Not Controlled
+Wajir,17,Male,26.7,Pollen,High,Active,Both,1,462.3,25.7,1,Poorly Controlled
+Baringo,5,Female,23.1,Dust,Moderate,Moderate,Hypertension,1,276.4,24.7,0,
+Bomet,2,Female,18.3,Dust,Low,Moderate,,1,456.1,41.1,0,
+Turkana,16,Male,19.8,,Moderate,Active,,1,362.1,38.7,0,
+Kwale,10,Female,24.3,Dust,Moderate,Sedentary,Hypertension,0,467.5,16,0,
+Nakuru,7,Female,28.6,Multiple,High,Moderate,Hypertension,0,270.8,21,0,
+Lamu,15,Female,25.2,Dust,High,Sedentary,Diabetes,3,445.9,17.1,1,Poorly Controlled
+Uasin Gishu,14,Female,26.7,Dust,Moderate,Sedentary,,1,229.7,27.1,1,Poorly Controlled
+Nyamira,3,Male,24.9,,Moderate,Sedentary,,1,369.4,33.8,0,
+West Pokot,6,Male,24.1,,High,Sedentary,Both,1,478.5,36.1,0,
+Siaya,11,Female,28.6,,Low,Moderate,Diabetes,1,450.3,42,0,
+Mombasa,12,Female,22.1,Dust,High,Sedentary,Diabetes,1,410.1,14.5,1,Poorly Controlled
+Nairobi City,8,Female,24.7,Dust,Low,Sedentary,Diabetes,1,436.1,13.7,1,Not Controlled
+Kilifi,9,Female,29.2,Dust,Low,Moderate,,0,419.6,45.1,0,
+Elgeyo-Marakwet,15,Male,19.2,Multiple,Moderate,Active,Diabetes,0,326.4,28.9,0,
+Marsabit,12,Male,33.7,Pets,Low,Moderate,,1,458,14.7,0,
+Samburu,2,Female,19.6,Pollen,Moderate,Active,Both,2,399.5,5.8,0,
+Kisii,7,Male,28.6,,Moderate,Active,Hypertension,1,373.9,31.1,0,
+Murang’a,3,Female,28.6,,Low,Sedentary,,0,468.3,29.8,0,
+Makueni,3,Male,23.9,,Moderate,Active,,3,505.2,19.6,0,
+Kajiado,1,Other,24.7,,Moderate,Sedentary,Diabetes,1,238.1,28.5,0,
+Kitui,8,Male,20.2,Pets,High,Sedentary,,1,297.4,28.7,1,Poorly Controlled
+Kiambu,4,Male,28.3,Pets,Moderate,Moderate,,1,290.1,26.4,0,
+Embu,9,Male,19.9,Multiple,Moderate,Active,Diabetes,1,432.6,25.1,0,
+Siaya,12,Male,24,Dust,Moderate,Moderate,,3,320.4,28.1,0,
+Mandera,11,Female,26.1,Dust,Moderate,Active,Hypertension,0,425.3,25.8,0,
+Laikipia,16,Female,17.9,Dust,Moderate,Sedentary,Diabetes,0,334.8,22.9,1,Poorly Controlled
+Kwale,1,Female,20.2,,Moderate,Moderate,,2,477,26.4,0,
+Marsabit,13,Male,17.6,Multiple,High,Active,Both,0,487.5,25.6,0,
+Kitui,4,Female,24.5,Dust,High,Active,,1,490.2,29,1,Not Controlled
+Tharaka-Nithi,3,Male,27.8,,Moderate,Moderate,,0,460.4,39.1,0,
+Elgeyo-Marakwet,5,Male,26.2,,Low,Active,,1,371,22.8,0,
+Kericho,9,Male,32.5,,Moderate,Sedentary,,2,414.5,36.2,0,
+Nandi,6,Male,27.6,,Low,Sedentary,,2,513.5,28.2,0,
+Uasin Gishu,11,Male,33.2,Pollen,Low,Active,,0,480.9,15.1,0,
+Kiambu,3,Male,19.8,Pollen,Low,Sedentary,,1,456.7,31.8,1,Poorly Controlled
+Marsabit,17,Female,24.8,,Moderate,Sedentary,Hypertension,1,584.8,18.7,0,
+Kisumu,11,Female,21.8,,Moderate,Moderate,Both,0,296.7,21.4,0,
+Siaya,15,Male,29.1,Dust,Low,Active,Hypertension,1,459,29.1,0,
+Makueni,16,Female,23.5,,Moderate,Sedentary,,0,332.7,25.3,0,
+Mombasa,1,Male,21.8,,Low,Moderate,Hypertension,0,377.7,19.5,0,
+Machakos,4,Female,32.1,,Low,Moderate,,1,428.3,18.8,0,
+Laikipia,15,Male,15,Dust,Moderate,Sedentary,,1,386.3,18.3,0,
+Trans Nzoia,14,Male,23.2,Pollen,Moderate,Sedentary,Hypertension,1,487,21.6,0,
+Wajir,17,Other,29.4,Dust,Low,Moderate,Diabetes,2,433.5,16,0,
+Bomet,9,Male,25.9,Pets,Moderate,Sedentary,Diabetes,1,308.4,38,0,
+Mandera,6,Female,29.1,,Moderate,Sedentary,Hypertension,0,517.8,22.4,0,
+Kirinyaga,14,Female,27.5,,Moderate,Moderate,,2,433.4,21.2,0,
+Turkana,14,Female,28.1,Dust,High,Active,Diabetes,0,448.8,27.8,1,Not Controlled
+Bungoma,3,Male,25.8,Dust,High,Moderate,Diabetes,0,305.1,20.6,0,
+Trans Nzoia,14,Male,29.4,Pollen,High,Active,Hypertension,0,428.7,11,0,
+Siaya,9,Female,17.6,Dust,Moderate,Moderate,,0,300.4,19.8,0,
+Nakuru,14,Female,25.6,Multiple,Moderate,Active,Diabetes,0,286.4,8.7,0,
+Kilifi,8,Male,32.6,Pollen,Low,Moderate,Diabetes,0,267.9,18.2,1,Poorly Controlled
+Taita-Taveta,2,Male,29.8,Dust,Moderate,Sedentary,Diabetes,1,498.6,28.8,1,Poorly Controlled
+West Pokot,16,Male,24.7,Pollen,Low,Sedentary,,0,501.4,28.3,0,
+Kilifi,12,Male,29,,Moderate,Sedentary,Diabetes,0,239.2,18.9,0,
+Migori,11,Female,20.6,Pollen,Low,Sedentary,Diabetes,0,493.1,20.5,1,Not Controlled
+Marsabit,9,Female,21.6,Dust,Low,Moderate,,0,392.6,24.4,0,
+Homa Bay,8,Male,24.6,Pollen,High,Sedentary,Hypertension,1,472,38.1,1,Not Controlled
+Tana River,15,Female,24.9,Dust,Moderate,Sedentary,Hypertension,1,282.3,16.5,0,
+Wajir,4,Male,31.5,Dust,Low,Sedentary,,1,335.8,18.4,0,
+Bungoma,4,Female,15,Multiple,Moderate,Active,,3,467.7,13.2,0,
+Lamu,1,Other,25.1,Pollen,Moderate,Moderate,,4,328.1,21.4,0,
+Uasin Gishu,6,Female,25.8,Dust,Moderate,Sedentary,,0,262,19.3,1,Not Controlled
+Nakuru,17,Male,26.2,,Moderate,Active,,1,417.8,13.3,0,
+Bungoma,12,Male,26.7,Pets,Moderate,Moderate,,0,317.3,22.1,0,
+Nandi,6,Female,24.8,Pets,High,Moderate,Diabetes,1,426,21.3,0,
+Kitui,8,Female,27.5,Multiple,High,Active,Diabetes,0,510.7,31.2,0,
+Kwale,14,Male,25.8,Pets,Moderate,Sedentary,,0,238.3,22.8,0,
+Lamu,13,Female,32.4,Pets,Low,Active,,2,366.1,36.5,0,
+Nyamira,8,Male,24.1,Pollen,High,Moderate,,0,475.6,5,0,
+Nairobi City,9,Female,23.9,Pollen,Low,Sedentary,Both,1,150,11.1,0,
+Wajir,17,Male,24.8,Dust,Moderate,Moderate,,0,406.6,35.7,0,
+Laikipia,13,Male,28.1,,Moderate,Sedentary,Diabetes,3,385.9,30.1,0,
+Embu,11,Female,30.5,Multiple,High,Moderate,,0,374.9,28.3,1,Poorly Controlled
+Kisii,11,Female,23.9,Dust,Moderate,Moderate,,2,296.1,22.8,0,
+Isiolo,1,Male,29.3,Multiple,Moderate,Active,Diabetes,0,412.3,29.6,0,
+Nandi,12,Female,26.9,Pollen,High,Sedentary,,1,261.2,19.2,1,Not Controlled
+Garissa,8,Male,19.2,,Low,Moderate,,1,400.2,25.1,0,
+Samburu,15,Female,29.6,Dust,Moderate,Active,Hypertension,2,526.9,13.2,0,
+Murang’a,2,Male,26.1,,High,Sedentary,Diabetes,1,441.5,23.3,0,
+Kwale,10,Male,25.6,Pollen,Moderate,Moderate,Both,0,589.1,27,0,
+Embu,14,Female,32,Pollen,High,Sedentary,Both,1,404.1,29.6,1,Poorly Controlled
+Mombasa,3,Male,27.9,,Low,Moderate,Hypertension,2,445,19.1,0,
+Kilifi,2,Female,19.5,Pets,Low,Moderate,,0,386.4,22,0,
+Trans Nzoia,3,Male,30.3,Dust,Low,Moderate,,1,292.1,33.9,0,
+Murang’a,16,Male,27.6,Multiple,Moderate,Moderate,,2,362,34,0,
+Homa Bay,2,Male,24.5,Pollen,High,Moderate,Both,3,484,16.9,0,
+Mombasa,12,Male,26.7,Multiple,Moderate,Moderate,Diabetes,2,450.7,20.8,0,
+Turkana,7,Female,29.9,Dust,Low,Moderate,,3,462.1,34.5,1,Poorly Controlled
+Kakamega,11,Female,25.4,Pollen,Low,Sedentary,,1,525.8,35.4,1,Poorly Controlled
+Taita-Taveta,8,Male,17.4,Dust,Low,Moderate,Diabetes,2,584.7,40.6,0,
+Murang’a,4,Male,21.7,Dust,Moderate,Sedentary,,0,576.7,28.6,0,
+Kericho,4,Female,30.1,Dust,Low,Moderate,,0,417.2,39.5,0,
+Nyeri,6,Female,25.7,,Moderate,Active,Hypertension,1,349.8,8.7,0,
+Mombasa,15,Male,25.6,Dust,High,Moderate,,0,527.6,31.3,0,
+Turkana,6,Male,23.2,Pets,Moderate,Sedentary,Diabetes,2,500.1,6.3,0,
+West Pokot,17,Male,25,Pollen,Low,Moderate,,1,422,13.9,0,
+Laikipia,13,Male,31.2,Pets,Moderate,Active,,1,339.2,8.3,1,Not Controlled
+Siaya,3,Female,26.5,,Moderate,Sedentary,Hypertension,0,408.4,26.3,0,
+Kisii,11,Male,20.5,Dust,Moderate,Active,Diabetes,0,524.7,23.1,0,
+Nyandarua,1,Male,17.6,,Low,Sedentary,,2,317,27.3,0,
+Uasin Gishu,13,Female,27.3,Multiple,Low,Moderate,Hypertension,1,406.8,28.9,0,
+Lamu,11,Female,22.9,,High,Moderate,,1,247.9,5.7,0,
+Turkana,17,Male,26.7,Dust,Moderate,Moderate,,1,281.3,17.6,0,
+Laikipia,8,Male,22,Pets,Low,Moderate,Diabetes,0,204,22.2,0,
+Vihiga,5,Female,21.2,Dust,Moderate,Moderate,,2,421.2,15.2,0,
+Turkana,17,Female,26.4,,Low,Sedentary,Hypertension,2,345,18.8,0,
+Tana River,11,Female,19.1,Pollen,Moderate,Moderate,Hypertension,2,546.4,19.6,0,
+Kajiado,12,Female,30.3,,Moderate,Sedentary,,0,582.2,20.6,0,
+Marsabit,11,Female,24.1,Dust,Low,Moderate,Hypertension,1,296,5,0,
+Nakuru,5,Male,20.8,Dust,Moderate,Moderate,Hypertension,2,402.9,20.5,0,
+Tana River,12,Other,27.2,Pollen,High,Moderate,Diabetes,1,274.7,19.3,1,Poorly Controlled
+Embu,17,Male,26.5,,Low,Moderate,,1,373.5,22.6,0,
+Tharaka-Nithi,15,Male,26.4,Pollen,Low,Moderate,Hypertension,1,375.7,49,0,
+Trans Nzoia,4,Male,24.6,,High,Sedentary,Hypertension,1,284.8,24.4,0,
+Kericho,7,Male,18.6,,Low,Moderate,Hypertension,4,486.6,18.4,0,
+Mandera,13,Male,29.6,Pets,Moderate,Sedentary,Diabetes,3,293.1,37.4,0,
+West Pokot,10,Male,25.6,,Moderate,Active,,1,426.3,17.8,0,
+Nyandarua,8,Male,34.3,Pets,Moderate,Moderate,Diabetes,4,150,15.4,0,
+Wajir,7,Female,25.5,Dust,High,Sedentary,Hypertension,0,476.8,24.2,1,Not Controlled
+Elgeyo-Marakwet,1,Female,26.2,Pollen,Low,Sedentary,,2,380,38.2,0,
+Kitui,15,Male,20.2,,Low,Active,,0,273.2,33.1,0,
+Kitui,13,Male,26.8,Dust,Moderate,Active,Hypertension,1,218.2,35.7,0,
+Taita-Taveta,8,Female,19.7,Pets,Moderate,Moderate,,1,600,34.4,0,
+Kiambu,5,Male,18.7,Multiple,High,Moderate,Diabetes,0,396.9,28.5,1,Not Controlled
+Nyeri,1,Male,22.8,,Low,Sedentary,,1,528.8,9.4,0,
+Kericho,9,Female,19.8,Pollen,Moderate,Sedentary,,2,374.6,11.9,1,Not Controlled
+Kirinyaga,4,Male,31.5,Dust,Moderate,Sedentary,,1,427.7,21.5,0,
+Kakamega,3,Female,31.1,Dust,Moderate,Moderate,Diabetes,1,285.9,24,0,
+Samburu,14,Male,20.2,Pollen,Moderate,Moderate,Hypertension,1,380.9,23.6,0,
+West Pokot,16,Male,31.3,Pollen,Moderate,Moderate,,1,348.6,5,0,
+Embu,17,Female,17.7,Dust,Moderate,Sedentary,,2,310.2,34.3,1,Not Controlled
+Kilifi,16,Female,24.1,Pets,Low,Moderate,,0,390.9,5,0,
+Kiambu,13,Male,26.5,Pollen,Low,Sedentary,,0,315.4,33.1,0,
+Mombasa,8,Female,21.2,Pollen,Moderate,Active,Both,0,303.1,30.4,0,
+Baringo,17,Male,27.8,,Moderate,Sedentary,Diabetes,0,421.8,32.3,0,
+Nyandarua,13,Female,33.6,,Moderate,Sedentary,Hypertension,4,485,35.5,0,
+Kilifi,10,Male,24.7,Dust,Moderate,Moderate,,1,486.7,35.5,0,
+Mombasa,14,Other,20.1,Dust,Moderate,Sedentary,Both,1,425.2,29.8,1,Not Controlled
+Kisii,4,Female,31.7,Dust,High,Sedentary,,0,422.4,22.3,1,Well Controlled
+Samburu,8,Male,25.1,Dust,Moderate,Active,Both,2,299.5,23.1,0,
+Migori,12,Female,31.3,,Moderate,Active,,1,600,35.9,0,
+Marsabit,8,Male,27.9,Pollen,Moderate,Sedentary,Hypertension,1,415.8,19,0,
+Wajir,6,Male,24.8,Pollen,Moderate,Moderate,Diabetes,2,364.4,29.5,0,
+Uasin Gishu,11,Female,15,,Moderate,Sedentary,,1,392.2,21.7,0,
+Kiambu,9,Male,20,Pollen,Moderate,Moderate,,1,493.7,19.1,0,
+Marsabit,15,Male,21.9,Pollen,Moderate,Sedentary,Diabetes,2,467.5,9.5,1,Not Controlled
+Turkana,13,Male,22.9,Pets,Moderate,Moderate,Diabetes,2,401.2,15.5,0,
+Elgeyo-Marakwet,17,Male,22.4,,Moderate,Moderate,,0,258.9,33.4,0,
+Migori,10,Other,32.1,,Moderate,Moderate,,0,406.4,26.6,0,
+Bomet,13,Female,24.1,,High,Sedentary,Both,4,303,13.3,0,
+Kisumu,11,Male,27.2,Dust,Low,Moderate,,0,313.2,24.9,0,
+Kisii,17,Female,21.6,Dust,Moderate,Active,,0,374.4,17.6,0,
+Narok,12,Female,25.9,,Moderate,Moderate,Diabetes,2,360.4,8.2,0,
+Vihiga,17,Female,22.5,,High,Sedentary,,1,446,21.1,1,Poorly Controlled
+Busia,13,Female,20.2,Multiple,High,Sedentary,Diabetes,0,319.9,35.1,1,Poorly Controlled
+Lamu,13,Male,24.9,Pets,Moderate,Sedentary,Hypertension,2,364.8,35.7,1,Not Controlled
+Migori,2,Female,23.3,Pets,Moderate,Moderate,,0,424.2,42.1,0,
+Nakuru,16,Male,21.9,Dust,High,Moderate,Diabetes,0,356.2,33,0,
+Nyandarua,9,Female,23.8,Pets,Moderate,Moderate,Diabetes,0,377.7,25.5,0,
+Samburu,9,Female,17.4,Multiple,Low,Sedentary,Hypertension,0,324.3,29.6,1,Not Controlled
+Garissa,8,Female,30.2,Pollen,Low,Moderate,,0,430.4,39.1,0,
+Nyamira,7,Male,29,Multiple,High,Active,Hypertension,1,333.6,23.4,1,Poorly Controlled
+Nakuru,3,Male,28.3,Dust,High,Sedentary,,0,282.1,18.2,1,Not Controlled
+Baringo,13,Male,25.3,,Moderate,Sedentary,Hypertension,0,283.3,12.7,0,
+Marsabit,10,Female,16.4,,Moderate,Active,Both,2,412.6,22.5,0,
+Uasin Gishu,13,Female,17.2,Pollen,High,Moderate,Diabetes,1,383.5,26.1,0,
+Makueni,2,Male,28.8,,High,Sedentary,,2,323.3,32.8,0,
+Bungoma,14,Female,27.2,Dust,Low,Sedentary,,1,408.6,33.9,0,
+Lamu,10,Male,15,Dust,Moderate,Sedentary,Hypertension,1,460.4,30.6,0,
+Lamu,3,Female,21.9,Pollen,High,Sedentary,,1,421.9,15.4,1,Poorly Controlled
+Taita-Taveta,17,Male,31,Pollen,High,Sedentary,,2,342.7,21,1,Poorly Controlled
+Meru,12,Male,25.8,Dust,High,Sedentary,Hypertension,1,277.6,15.6,1,Poorly Controlled
+Uasin Gishu,16,Female,17.2,Pets,High,Sedentary,,0,347.2,15.9,1,Poorly Controlled
+Kajiado,6,Male,28.4,Pollen,Moderate,Moderate,Hypertension,0,223.3,14.4,0,
+Marsabit,7,Female,24.4,Dust,Moderate,Moderate,Diabetes,3,455.1,21.6,0,
+Wajir,7,Male,19.4,,High,Moderate,Hypertension,2,373.1,8.4,0,
+Kilifi,12,Female,27.2,Dust,Moderate,Sedentary,Diabetes,1,478.6,21.4,1,Not Controlled
+Siaya,16,Female,25.9,,Moderate,Active,,1,410.2,14.6,0,
+Kakamega,7,Other,32.4,,Moderate,Active,,0,434.9,16.8,0,
+Bungoma,8,Male,26.8,Pets,Moderate,Active,,2,365.6,9,0,
